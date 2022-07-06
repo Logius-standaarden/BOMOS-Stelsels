@@ -1,6 +1,7 @@
-# Template voor een standaard
+# BOMOS
 
-Gebruik deze template repository voor nieuwe specificaties
-zie 
+[Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Stelsels/index.html)
 
-- html voorbeeld: https://logius-standaarden.github.io/Template-Repository/
+[Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Stelsels/snapshot.html)
+
+[PDF versie](https://logius-standaarden.github.io/BOMOS-Stelsels/BOMOS-Stelsels.pdf)

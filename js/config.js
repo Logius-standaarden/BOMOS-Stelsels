@@ -66,8 +66,6 @@ var respecConfig = {
       companyURL: "http://www.logius.nl/",
     }
   ],
-  // shortName = korte naam voor in de url van het document, gebruik alleen letters, cijfers en eventueel '-'
-  shortName: "bomos",
   // url van de github repository waar je in werkt
   github: "https://github.com/Logius-standaarden/BOMOS-Stelsels",
   // Controls if linked "§" section markers are added to a document

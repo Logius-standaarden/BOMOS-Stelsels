@@ -91,7 +91,8 @@ Het afsprakenstelsel vormt de basis om veilig en betrouwbare gegevensuitwisselin
 
 ### Wensen & Eisen
 Net zoals standaarden ontwikkelt een afsprakenstelsel zich ook door om te voldoen aan de wensen en eisen van gebruikers. Een andere belangrijke kracht voor wijzigingen die structureel bijdragen aan de businesscase, wet- en regelgeving en maatregelen om aan (toekomstige) dreigingen rond veiligheid en betrouwbaarheid te voldoen.  Om dit in goed banen te leiden bevat een afsprakenstelsel regels hoe wijzigingen geïnitieerd worden, beschrijving van de besluitvorming en hoe die wijzigingen in het afsprakenstelsel terecht komen en uiteindelijk geïmplementeerd worden door de betrokken partijen. Een belangrijk aspect bij het doorvoeren en implementeren van wijzigingen in een stelsel is het borgen van continuïteit: idealiter voorkom je scenario’s waarbij wijzigingen via een big bang scenario worden uitgerold maar kan dit in een eigen tempo. Dit is te organiseren door een vorm van backward compatibility te faciliteren.
-Documentatie
+
+### Documentatie
 Het afsprakenstelsel is vrij beschikbaar en toegankelijk. Hiermee voorkom je dat de buitenwereld met wantrouwen kijkt naar wat er binnen een afsprakenstelsel gebeurt omdat het dan meer lijkt op een kartel. Idealiter zijn de stukken die gebruikt zijn ook publiek toegankelijk. Transparantie helpt bij het realiseren van draagvlak.  
 
 ### Operationeel handboek (extra activiteit)

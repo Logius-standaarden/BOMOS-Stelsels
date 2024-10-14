@@ -22,7 +22,6 @@ var respecConfig = {
     ],
   github: "https://github.com/Logius-standaarden/BOMOS-Stelsels",
   maxTocLevel: 3,
-  nl_markdownTableClass: "dkkvs",
   previousMaturity: "DEF",
   pubDomain: "bomos",
   publishDate: "2022-06-07",

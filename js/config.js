@@ -27,6 +27,6 @@ var respecConfig = {
   publishDate: "2022-06-07",
   publishVersion: "3.0.0",
   shortName: "stelsels",
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "HR"
 };

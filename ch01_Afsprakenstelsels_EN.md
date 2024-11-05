@@ -30,7 +30,7 @@ These principles are the foundation of agreements and rules governing the follow
 
 ![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
 
-The Medmij trust framework makes it possible for end users to securely and reliably share health-related information in their personal health environment with care providers such as a dispensing chemist or hospital. The end users select a party to supply the health environment and hospitals select a party they connect to the Medmij network. The trust framework provides the conditions for secure and reliable exchange and the technical facilities for practical operation. The scope of the trust framework is the area in which the service provider of the end user cooperates with the service provider and the care provider. There are multiple service providers on both sides and thanks to the framework, the complexity is restricted and the services and products work well together.  
+The Medmij trust framework (for more info: see [Medmij](https://medmij.nl/en/medmij-framework/)) makes it possible for end users to securely and reliably share health-related information in their personal health environment with care providers such as a dispensing chemist or hospital. The end users select a party to supply the health environment and hospitals select a party they connect to the Medmij network. The trust framework provides the conditions for secure and reliable exchange and the technical facilities for practical operation. The scope of the trust framework is the area in which the service provider of the end user cooperates with the service provider and the care provider. There are multiple service providers on both sides and thanks to the framework, the complexity is restricted and the services and products work well together.  
 
 This layout is also known as the ‘four corner’ model. In this case, via their own broker, end users are connected to other participants in the framework. Remember: there are also other possible configurations within a trust framework, such as a central facility (3-corner) or an additional branch for example for transaction-driven accounting information (5-corner).
 
@@ -49,7 +49,7 @@ The BOMOS foundation can be ideally used for structuring the management of new t
 
 ## BOMOS applied to trust frameworks
 
-![BOMOS model](images/bomos_activiteiten.png "BOMOS activiteiten")
+![BOMOS model](images/BOMOS-15_Bomos-activiteiten-blanco_EN.png "BOMOS activiteiten")
 
 ## Strategy
 

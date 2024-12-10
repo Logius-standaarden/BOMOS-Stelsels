@@ -39,7 +39,7 @@ Trust frameworks cannot existing without standards... Standards are the foundati
 
 To a considerable extent, the management of a trust framework and of a standard are closely related, making BOMOS ideally applicable in this broader scope. The BOMOS activities are also clearly recognisable and usable within frameworks, with the occasional exception or deviation. As with the management of a standard, in trust frameworks there are activities aimed at organising the operation, further development and management of central provisions, support for connecting to the framework and promoting use.
 
-Based on this method, in collaboration with the ICTU, a tool has also been developed based on the BOMOS assessment, but specifically intended for trust frameworks. This can be obtained via Logius: [https://logius.nl/contact].
+Based on this method, in collaboration with the ICTU, a tool has also been developed based on the BOMOS assessment, but specifically intended for trust frameworks. This can be obtained via Logius: https://logius.nl/contact
 
 Experience has now been acquired in practice with the implementation of this specific BOMOS assessment for trust frameworks. These analyses clearly reveal the value of having a trust framework to provide structure, definitions, activities and tips and tricks. BOMOS supplies the common language and promotes understanding of each other’s roles and perceptions, thereby enabling constructive discussions.
 

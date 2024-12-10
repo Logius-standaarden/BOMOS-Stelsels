@@ -1,7 +1,7 @@
 var respecConfig = {
   alternateFormats: [ { 
         "label" : "pdf",
-        "uri" : "BOMOS-Stelsels.pdf"
+        "uri" : "BOMOS-Frameworks.pdf"
       } ],
   authors: [ { 
         "company" : "Logius",

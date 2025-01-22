@@ -1,12 +1,12 @@
-# Structure of BOMOS for the management of trust frameworks
+# Structure of BOMOS for the Management of Trust Frameworks
 
-## What are trust frameworks?
+## What are Trust Frameworks?
 Trust frameworks or in short ‘frameworks’ are close forms of cooperation between different stakeholders from business and industry, government and research, that supply products or services based on predetermined requirements.  
 
-Trust frameworks make clear to all participating parties the rules of play for the interaction between them and for the supply of a product or service. For the users of those services, they offer freedom of choice and a quality guarantee. For example: you can choose which party will assist you in submitting annual reports to the Nederlandse Bank via SBR, and all approved parties do what they have to do.
+Trust frameworks make clear to all participating parties the rules of play for the interaction between them and for the supply of a product or service. For the users of those services, they offer freedom of choice and a quality guarantee. For example: you can choose which party will assist you in submitting annual reports to the Nederlandse Bank via Standard Business Reporting (see: [SBR](https://www.sbr-nl.nl/)), and all approved parties do what they have to do.
 
 
-## Contents of a trust framework
+## Contents of a Trust Framework
 The heart of a trust framework consists of the rules of play that every supplier or other stakeholder must comply with to take part or to supply a product or service.
 On the one hand these rules of play offer a guarantee to the user that the product or service can be securely and reliably used, while on the other hand they are mutual agreements that guarantee the success of the cooperation. Elinor Ostrom in the book Governing the Commons, describes the conditions for successful cooperation with regard to scarce common resources (otherwise known as the commons), such as the management of water wells. These principles can be recognised in cooperation within successful trust frameworks. These principles are:
 
@@ -26,7 +26,7 @@ These principles are the foundation of agreements and rules governing the follow
 -	Frameworks of standards: what requirements must suppliers products/services meet?
 -	Architecture and technical aspects: for example technical standards, use cases and interface descriptions.
 
-### Example of a trust framework: Medmij
+### Example of a Trust Framework: Medmij
 
 ![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
 
@@ -34,7 +34,7 @@ The Medmij trust framework (for more info: see [Medmij](https://medmij.nl/en/med
 
 This layout is also known as the ‘four corner’ model. In this case, via their own broker, end users are connected to other participants in the framework. Remember: there are also other possible configurations within a trust framework, such as a central facility (3-corner) or an additional branch for example for transaction-driven accounting information (5-corner).
 
-## How can BOMOS be deployed as best practice for the management of trust frameworks?
+## How can BOMOS be deployed as Best Practice for the Management of Trust Frameworks?
 Trust frameworks cannot existing without standards... Standards are the foundation on which interoperability and cooperation are made possible. It appears to be a combination of standards with one important addition: in the case of a framework, agreements are also reached on operational aspects of cooperation for the supply of a product or service.
 
 To a considerable extent, the management of a trust framework and of a standard are closely related, making BOMOS ideally applicable in this broader scope. The BOMOS activities are also clearly recognisable and usable within frameworks, with the occasional exception or deviation. As with the management of a standard, in trust frameworks there are activities aimed at organising the operation, further development and management of central provisions, support for connecting to the framework and promoting use.
@@ -47,13 +47,13 @@ The result of any assessment helps in the short term to arrive at a target for p
 
 The BOMOS foundation can be ideally used for structuring the management of new trust frameworks. In that situation, BOMOS helps to create a clear picture for a programme or for a client of the activities that need to be organised, and why. This picture then helps in setting the priorities for organising management activities and estimating the necessary resources.
 
-## BOMOS applied to trust frameworks
+## BOMOS applied to Trust Frameworks
 
 ![BOMOS model](images/BOMOS-15_Bomos-activiteiten-blanco_EN.png "BOMOS activiteiten")
 
 ## Strategy
 
-## # Governance
+### Governance
 
 It is essential to reach structured agreements between the various stakeholders in a trust framework. These harmonised agreements are reached via the governance of the framework. This requires the description of the organisation structure, and forums for decision making and roles.
 The organisation structure clarifies the forums that exist in the framework of decision making and the types of decisions that are taken in each forum. The structure also clarifies how tasks, relationships and communication between the groups are safeguarded. This does however essentially require a distinction between a governing body and execution.
@@ -88,7 +88,7 @@ Interoperability also plays an important role within a trust framework, as refle
 
 Operating and jointly defining the architectural principles for a trust framework (see NORA) is a valuable tool when it comes to assessing proposals for change.
 
-### Trust framework risk analysis (additional activity)
+### Trust Framework Risk Analysis (additional activity)
 A trust framework is the foundation that enables secure and reliable data exchange between different parties. It is also essential for the governance to have a clear picture of the situation with regard to threats and risks to the framework itself. What could go wrong, what should I do to avoid potential risks, and if a threat does become reality: what steps should I take and who should I reach out to?
 
 ## Operational
@@ -99,13 +99,13 @@ Just like a standard, a trust framework also develops by meeting the wishes and 
 ### Documentation
 The trust framework is freely available and accessible. This prevents the outside world viewing with suspicion what goes on within a trust framework as if it were a cartel. In the ideal world, the documents used are also publicly available. Transparency helps in generating support.  
 
-### Operational handbook (additional activity)
+### Operational Handbook (additional activity)
 To a considerable extent, a trust framework consists of agreements on mutual cooperation. This deals with such issues as how you respond to wishes and requirements about the change process and how you can join, how disruptions and incidents are reported and corrected, the service windows of the various stakeholders and the reporting requirements to each other and to the governance.
 
-## Implementation support
+## Implementation Support
 The extent to which implementation support is provided by the trust framework depends on the distribution of tasks between the participants within the framework and the framework governance organisation. It is logical, for example, that a party that enters into a contract with a supplier calls upon that same supplier for support in implementation (connection) and use. Within the framework itself, the management organisation is tasked with playing a role in issues relating to the interpretation of the framework specifications and for example connecting to the network.
 
-### Validation & certification
+### Validation & Certification
 There are trust frameworks that provide validation tooling to support participants in testing their implementation. It is essential that the suppliers be involved in the realisation and assessment of these tools to avoid inconsistencies and uncertainties in the specifications only emerging at a late stage (during actual realisation).
 
 With regard to the inspection and certification, these are normally the task of the party that fulfils the role of watchdog. The watchdog observes to determine whether the agreed framework of standards has been correctly implemented by the supplier. There are clear agreements on when the supplier should actively inform the watchdog to carry out an assessment. For example changes to processes that relate closely to the framework of standards.
@@ -118,5 +118,5 @@ The advantages offered by a product or service from a trust framework must be ma
 ### Publication
 This includes maintaining a site that provides information about the trust framework, the use of social media and the sharing of information with specific user groups.
 
-### Complaint handling
+### Complaint Handling
 As well as submitting a complaint to their own supplier, users may also feel the need to report their complaint to an independent party. A complaints committee can issue a binding judgement in situations where the two parties fail to arrive at an agreement.

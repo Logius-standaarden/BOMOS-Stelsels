@@ -2,14 +2,27 @@
 
 ## Wat zijn afsprakenstelsels?
 
-Afsprakenstelsels, of kortweg ‘stelsels’, zijn nauwe samenwerkingsvormen van verschillende partijen uit het bedrijfsleven, de overheid en de wetenschap, die producten of diensten leveren, op basis van vastgelegde eisen.  
+Het is lastig om een eenduidige definitie te geven van wat een afsprakenstelsel precies is. Het is de Nederlandse vertaling van Trust Framework. Andere benamingen voor een afsprakenstelsel is stelsel of vertrouwensraamwerk. Voorbeelden van Nederlandse afsprakenstelsels zijn eHerkenning, Medmij, Kik-V, Standard Business reporting. 
+
+Uit literatuuronderzoek [(zie understanding trust frameworks)](https://digicampus.tech/wp-content/uploads/2024/09/van-der-Peet-L.-Bharosa-N.-Dijkhuis-S.-Janssen-M.-2024-Understanding-trust-frameworks.pdf) 
+blijkt dat slechts één paper een definitie bevat, afkomstig van het NIST (National Institute of Standards and Technology): "een juridisch afdwingbare set specificaties, regels en overeenkomsten die een meerzijdig systeem regelen, opgezet voor een gemeenschappelijk doel, ontworpen voor specifieke transacties binnen een gemeenschap van deelnemers, en gebonden aan gemeenschappelijke vereisten."
+
+Een meer praktische definitie is dat afsprakenstelsels  nauwe samenwerkingsvormen zijn tussen verschillende belanghebbenden uit het bedrijfsleven, de overheid en de wetenschap, die producten of diensten leveren, op basis van vastgelegde eisen.
+
 Door afsprakenstelsels is het voor de deelnemende partijen duidelijk wat de spelregels zijn in de omgang met elkaar en het leveren van een product of dienst. Voor de gebruikers van de diensten biedt het keuzevrijheid met een kwaliteitsgarantie. Voorbeeld: je mag kiezen welke partij je helpt bij het insturen van jaarrapportages naar de Nederlandse Bank via SBR, alle erkende partijen doen wat ze moeten doen.
-In het Engels wordt een afsprakenstelsel Trust Framework genoemd.
+
+## Relatie tussen GovTech en afsprakenstelsels
+GovTech-initiatieven richten zich op het gebruik van technologie om de publieke sector te verbeteren en maatschappelijke vraagstukken op te lossen. Deze initiatieven ontstaan vaak als samenwerkingen tussen overheid, bedrijfsleven en kennisinstellingen, waarbij technologische innovatie centraal staat. De overheid heeft immers niet altijd de capaciteit en ervaring om zelfstandig in te spelen op technologische ontwikkelingen.
+
+De ontwikkeling van GovTech initiatieven is nauw verbonden met de opkomst van afsprakenstelsels als **besturingsmechanisme** voor digitale publieke infrastructuur. Deze afsprakenstelsels vormen een essentieel onderdeel van de digitale transformatie van de overheid.
+
 
 ## Inhoud van een afsprakenstelsel
 
-De kern van een afsprakenstelsel zijn de spelregels, waar je de leveranciers en andere betrokken partijen zich aan moet houden om mee te mogen doen en om een product of dienst te mogen leveren.
-Deze spelregels bieden enerzijds de garantie voor de gebruiker dat je veilig en betrouwbaar het product of die dienst kan af nemen en anderzijds zijn dit onderlinge afspraken die de samenwerking succesvol maken. Elinor Ostrom beschrijft in het boek Governing the Commons de voorwaarden voor succesvolle samenwerking rond schaarse gemeenschappelijke voorzieningen zoals het beheer van waterputten. Deze principes zijn te herkennen in de samenwerking van succesvolle afsprakenstelsels. Deze zijn (vrij vertaald):
+De kern van een afsprakenstelsel zijn de spelregels. Om mee te mogen doen moet je aantonen dat je voldoet aan de spelregels en een mechanisme ontwikkelen om partijen zich aan de regels blijven houden. 
+Deze spelregels bieden enerzijds de garantie voor de gebruiker dat je veilig en betrouwbaar het product of die dienst kan af nemen en anderzijds zijn dit onderlinge afspraken die de samenwerking succesvol maken. 
+
+Elinor Ostrom beschrijft in het boek Governing the Commons de voorwaarden voor succesvolle samenwerking rond schaarse gemeenschappelijke voorzieningen zoals het beheer van waterputten. Deze principes zijn te herkennen in de samenwerking van succesvolle afsprakenstelsels. Deze zijn (vrij vertaald):
 -	Er zijn duidelijke grenzen op gebied van homogene functionaliteit/middelen en een homogene gebruikersgroep.
 -	Overeenstemming en balans in baten en lasten voor alle betrokkenen.
 -	Iedereen kan bijdragen aan verbeteringen.
@@ -26,6 +39,10 @@ Deze principes staan aan de basis van de afspraken en regels over de onderstaand
 -	Normenkaders: aan welke eisen moeten de diensten/producten van leveranciers voldoen?
 -	Architectuur en techniek: denk hierbij aan technische standaarden, use-cases en interface beschrijvingen.
 
+Dit componentendiagram is ontwikkeld door en op basis van het onderzoek van L. van der Peet en geeft inzicht in de relevante componentenvan een afsprakenstelsel. 
+
+![componenten diagram trust framework](images/components_diagram.png "Componenten diagram afsprakenstelsels")
+
 ### Voorbeeld van een afsprakenstelsel: Medmij
 
 ![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
@@ -38,7 +55,7 @@ Deze opzet wordt  ook wel het “four corner” model genoemd; eindgebruikers zi
 Afsprakenstelsels zonder standaarden bestaan niet.... Standaarden staan aan de basis van het mogelijk maken van interoperabiliteit en samenwerking. Het lijkt dus op een bundeling van standaarden met daarbij een belangrijke toevoeging: bij een stelsel zijn er ook afspraken gemaakt over het operationaliseren van samenwerking om een product of dienst aan te bieden.
 Voor een groot deel komt het beheer van een afsprakenstelsel en van een standaard goed overeen en maakt BOMOS prima toepasbaar voor deze bredere scope. De BOMOS activiteiten zijn binnen stelsels ook goed herkenbaar en toe te passen met hier en daar een uitzondering of afwijking. Net zoals bij het beheer van een standaard zijn er bij stelsels activiteiten gericht op het organiseren van de besturing, de doorontwikkeling, het beheren van centrale voorzieningen, het helpen bij aansluiten en promotie van gebruik.
 
-Samen met de ICTU is aan de hand van deze methode ook een instrument gemaakt aan de hand van de BOMOS assessment maar dan toegespitst op afsprakenstelsels. Deze is op te vragen via Logius: https://logius.nl/contact
+Samen met de ICTU is een instrument gemaakt om een BOMOS assessment uit te voeren gericht op afsprakenstelsels. Dit assessment is op meerdere manieren in te zetten. Bij het inrichten van een stelsel kan de lezer in vogelvlucht verkennen welke onderdelen belangrijk zijn om als eerste in te richten. Bij een bestaand afsprakenstelsel is het assessment waardevol om met betrokkenen na te gaan welke onderdelen extra aandacht nodig hebben. Deze tool is online beschikbaar, zie [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/).
 
 Inmiddels is er praktijkervaring opgedaan met het uitvoeren van deze specifieke BOMOS assessment voor stelsels. Na deze analyses is ook duidelijk naar voren gekomen hoe waardevol het om een raamwerk te hebben  die de structuur, definities, activiteiten en tips en trucs aanreiken. BOMOS zorgt hierbij voor een gezamenlijke “taal” en helpt om elkaars rollen en de beleving daarbij beter te begrijpen en dat maakt constructieve discussies mogelijk.
 

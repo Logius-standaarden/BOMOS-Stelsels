@@ -2,23 +2,19 @@
 
 ## Wat zijn afsprakenstelsels?
 
-Het is lastig om een eenduidige definitie te geven van wat een afsprakenstelsel precies is. Het is de Nederlandse vertaling van Trust Framework. Andere benamingen voor een afsprakenstelsel is stelsel of vertrouwensraamwerk. Voorbeelden van Nederlandse afsprakenstelsels zijn eHerkenning, Medmij, Kik-V, Standard Business reporting. 
+Het is lastig om een eenduidige definitie te geven van wat een afsprakenstelsel precies is. Het is de Nederlandse vertaling van Trust Framework. Andere benamingen voor een afsprakenstelsel is stelsel of vertrouwensraamwerk. Voorbeelden van Nederlandse afsprakenstelsels zijn eHerkenning, Medmij, Kik-V, Standard Business Reporting. 
 
 Uit literatuuronderzoek [(zie understanding trust frameworks)](https://digicampus.tech/wp-content/uploads/2024/09/van-der-Peet-L.-Bharosa-N.-Dijkhuis-S.-Janssen-M.-2024-Understanding-trust-frameworks.pdf) 
-blijkt dat slechts één paper een definitie bevat, afkomstig van het NIST (National Institute of Standards and Technology): "een juridisch afdwingbare set specificaties, regels en overeenkomsten die een meerzijdig systeem regelen, opgezet voor een gemeenschappelijk doel, ontworpen voor specifieke transacties binnen een gemeenschap van deelnemers, en gebonden aan gemeenschappelijke vereisten."
+blijkt dat slechts één paper een definitie bevat, afkomstig van het NIST (National Institute of Standards and Technology):"een juridisch afdwingbare set specificaties, regels en overeenkomsten die een meerzijdig systeem regelen, opgezet voor een gemeenschappelijk doel, ontworpen voor specifieke transacties binnen een gemeenschap van deelnemers, en gebonden aan gemeenschappelijke vereisten."
 
-Een meer praktische definitie is dat afsprakenstelsels  nauwe samenwerkingsvormen zijn tussen verschillende belanghebbenden uit het bedrijfsleven, de overheid en de wetenschap, die producten of diensten leveren, op basis van vastgelegde eisen.
-
-Door afsprakenstelsels is het voor de deelnemende partijen duidelijk wat de spelregels zijn in de omgang met elkaar en het leveren van een product of dienst. Voor de gebruikers van de diensten biedt het keuzevrijheid met een kwaliteitsgarantie. Voorbeeld: je mag kiezen welke partij je helpt bij het insturen van jaarrapportages naar de Nederlandse Bank via SBR, alle erkende partijen doen wat ze moeten doen.
+Afsprakenstelsels zorgen ervoor dat alle deelnemers precies weten waar ze aan toe zijn: ze maken glashelder welke spelregels gelden voor de onderlinge samenwerking en voor het leveren van producten of diensten. Voor de gebruikers van de diensten biedt het keuzevrijheid met een kwaliteitsgarantie. Voorbeeld: je mag kiezen welke partij je helpt bij het insturen van jaarrapportages naar de Nederlandse Bank via SBR, alle erkende partijen doen wat ze moeten doen.
 
 ## Relatie tussen GovTech en afsprakenstelsels
 GovTech-initiatieven richten zich op het gebruik van technologie om de publieke sector te verbeteren en maatschappelijke vraagstukken op te lossen. Deze initiatieven ontstaan vaak als samenwerkingen tussen overheid, bedrijfsleven en kennisinstellingen, waarbij technologische innovatie centraal staat. De overheid heeft immers niet altijd de capaciteit en ervaring om zelfstandig in te spelen op technologische ontwikkelingen.
 
 De ontwikkeling van GovTech initiatieven is nauw verbonden met de opkomst van afsprakenstelsels als **besturingsmechanisme** voor digitale publieke infrastructuur. Deze afsprakenstelsels vormen een essentieel onderdeel van de digitale transformatie van de overheid.
 
-
 ## Inhoud van een afsprakenstelsel
-
 De kern van een afsprakenstelsel zijn de spelregels. Om mee te mogen doen moet je aantonen dat je voldoet aan de spelregels en een mechanisme ontwikkelen om partijen zich aan de regels blijven houden. 
 Deze spelregels bieden enerzijds de garantie voor de gebruiker dat je veilig en betrouwbaar het product of die dienst kan af nemen en anderzijds zijn dit onderlinge afspraken die de samenwerking succesvol maken. 
 
@@ -72,7 +68,7 @@ Het BOMOS fundament is goed toepasbaar voor het inrichten van beheer van nieuwe 
 
 Het hebben van een gestructureerde afstemming tussen de verschillende betrokken partijen (‘de stakeholders’) binnen een stelsel is essentieel. Deze afstemming verloopt via de governance van een stelsel. Hiervoor is een beschrijving nodig van de organisatiestructuur, gremia voor besluitvorming en rollen.
 De organisatiestructuur maakt duidelijk welke gremia bestaan in het kader van de besluitvorming en welk type beslissingen in welk gremium wordt genomen. Ook maakt de structuur duidelijk hoe taken, relaties en communicatie tussen de groepen geborgd is. Daarbij is een onderscheid tussen een sturend orgaan en uitvoering essentieel.
-Afspraken hoe er besluiten worden genomen, hoe men lid kan worden van besluitvormende gremia en over de scope van sturing kunnen onderdeel maken van het afsprakenstelsel zelf maar kunnen ook daarbuiten liggen in de vorm van een instellingsbesluit of convenant.
+Afspraken hoe er besluiten worden genomen, hoe men kan deelnemen in besluitvormende gremia en over de scope van sturing kunnen onderdeel maken van het afsprakenstelsel zelf maar kunnen ook daarbuiten liggen in de vorm van een instellingsbesluit of convenant.
 De rol van toezichthouder is een extra rol ten opzichte van de rollen binnen standaarden: wat is er georganiseerd om te toetsen of de afspraken daadwerkelijk worden nagekomen en wat zijn de procedures en middelen om in te grijpen indien dit niet het geval is. Het is van belang deze taak onafhankelijk te beleggen om te voorkomen dat de slager zijn eigen vlees keurt. Daarnaast is deze rol belast met de taak om in geval van niet naleving passende maatregelen te nemen.
 
 ### Visie

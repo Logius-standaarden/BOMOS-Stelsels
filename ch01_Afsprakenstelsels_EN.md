@@ -1,15 +1,22 @@
 # Structure of BOMOS for the Management of Trust Frameworks
 
 ## What are Trust Frameworks?
-Trust frameworks or in short ‘frameworks’ are close forms of cooperation between different stakeholders from business and industry, government and research, that supply products or services based on predetermined requirements.  
+Defining precisely what constitutes a “trust framework” proves elusive.Notable examples of such frameworks in the Netherlands include eHerkenning, MedMij, KiK-V, and Standard Business Reporting.
 
-Trust frameworks make clear to all participating parties the rules of play for the interaction between them and for the supply of a product or service. For the users of those services, they offer freedom of choice and a quality guarantee. For example: you can choose which party will assist you in submitting annual reports to the Nederlandse Bank via Standard Business Reporting (see: [SBR](https://www.sbr-nl.nl/)), and all approved parties do what they have to do.
+A review of the literature [(see understanding trust frameworks)](https://digicampus.tech/wp-content/uploads/2024/09/van-der-Peet-L.-Bharosa-N.-Dijkhuis-S.-Janssen-M.-2024-Understanding-trust-frameworks.pdf) reveals that only a single paper offers a formal definition, originating from the National Institute of Standards and Technology (NIST): a trust framework is “a legally enforceable set of specifications, rules, and agreements governing a multilateral system, established for a common purpose, designed for specific transactions within a community of participants, and bound by common requirements”.
 
+A more pragmatic interpretation frames a trust framework as close forms of collaboration among stakeholders from business, government, and academia, who provide products or services in accordance with agreed-upon standards.
+
+## Relationship Between GovTech and Trust Frameworks
+GovTech initiatives focus on leveraging technology to enhance the public sector and address societal challenges. These efforts frequently arise from collaborations between government, industry, and knowledge institutions, with technological innovation at their core. After all, the government does not always possess the capacity or expertise to independently respond to technological developments.
+
+The development of GovTech initiatives is closely intertwined with the emergence of trust frameworks as a **governance mechanism** for digital public infrastructure. These frameworks constitute an essential component of the government's digital transformation.
 
 ## Contents of a Trust Framework
-The heart of a trust framework consists of the rules of play that every supplier or other stakeholder must comply with to take part or to supply a product or service.
-On the one hand these rules of play offer a guarantee to the user that the product or service can be securely and reliably used, while on the other hand they are mutual agreements that guarantee the success of the cooperation. Elinor Ostrom in the book Governing the Commons, describes the conditions for successful cooperation with regard to scarce common resources (otherwise known as the commons), such as the management of water wells. These principles can be recognised in cooperation within successful trust frameworks. These principles are:
+The core of a trust framework consists of the rules of play that every supplier or other stakeholder must comply to before taking part in order to provide a service.
+These rules, on the one hand, guarantee for the user that products or services can be obtained safely and reliably; on the other hand, they are mutual agreements that underpin successful cooperation.
 
+Elinor Ostrom, in her book *Governing the Commons*, describes the conditions for successful collaboration around scarce common resources, such as the management of water wells. These principles can be recognised in the operation of successful trust frameworks. They are (loosely translated):
 -	Commons need to have clearly defined boundaries in terms of shared functionality/resources and a homogeneous user group.
 -	Harmony and balance in benefits and costs for all stakeholders.
 -	Everyone can contribute to improvements.
@@ -26,6 +33,9 @@ These principles are the foundation of agreements and rules governing the follow
 -	Frameworks of standards: what requirements must suppliers products/services meet?
 -	Architecture and technical aspects: for example technical standards, use cases and interface descriptions.
 
+This component diagram was developed by and based on the research of L. van der Peet and provides insight into the relevant components of a trust framework.
+![componenten diagram trust framework](images/components_diagram_EN.png "Component diagram Trust Frameworks")
+
 ### Example of a Trust Framework: Medmij
 
 ![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
@@ -39,7 +49,7 @@ Trust frameworks cannot existing without standards... Standards are the foundati
 
 To a considerable extent, the management of a trust framework and of a standard are closely related, making BOMOS ideally applicable in this broader scope. The BOMOS activities are also clearly recognisable and usable within frameworks, with the occasional exception or deviation. As with the management of a standard, in trust frameworks there are activities aimed at organising the operation, further development and management of central provisions, support for connecting to the framework and promoting use.
 
-Based on this method, in collaboration with the ICTU, a tool has also been developed based on the BOMOS assessment, but specifically intended for trust frameworks. This can be obtained via Logius: https://logius.nl/contact
+Logius has developed a tool to conduct a BOMOS assessment specifically aimed at trust frameworks. This assessment can be applied in several ways. When establishing a new framework, readers can quickly explore which components are most important to set up first. For an existing trust framework, the assessment is valuable for identifying, together with stakeholders, which components require additional attention. This tool is available (in English) online; see [BOMOS assessment](https://regelhulpenvoorbedrijven.nl/bomos-assessment-tool/).
 
 Experience has now been acquired in practice with the implementation of this specific BOMOS assessment for trust frameworks. These analyses clearly reveal the value of having a trust framework to provide structure, definitions, activities and tips and tricks. BOMOS supplies the common language and promotes understanding of each other’s roles and perceptions, thereby enabling constructive discussions.
 

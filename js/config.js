@@ -26,6 +26,7 @@ var respecConfig = {
   pubDomain: "bomos",
   publishDate: "2022-06-07",
   publishVersion: "3.0.0",
+  prevVersion: [],
   shortName: "stelsels",
   specStatus: "WV",
   specType: "HR"

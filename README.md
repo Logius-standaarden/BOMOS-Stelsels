@@ -19,9 +19,9 @@ De gepubliceerde (vastgestelde) versie staat online:
 - [Vastgestelde versie 07 juni 2022](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels)
 
 De ontwikkelversies van dit document staan online:
-- [Dynamische pagina (actueel)](https://Logius-standaarden.github.io/BOMOS-Stelsels/index.html)
-- [Statische pagina (laatste build)](https://Logius-standaarden.github.io/BOMOS-Stelsels/snapshot.html)
-- [PDF versie](https://logius-standaarden.github.io/BOMOS-Fundament/BOMOS-Stelsels.pdf)
+- [Huidige werkversie](https://logius-standaarden.github.io/BOMOS-Stelsels/)
+- [Gepubliceerde versie](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/)
+- [PDF-versie](https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/BOMOS-Stelsels.pdf)
 
 Iedereen is vrij om wijzigingen voor te stellen op de BOMOS documentatie.
 Een wijziging gemaakt in github kan als _issue_ worden ingediend worden of

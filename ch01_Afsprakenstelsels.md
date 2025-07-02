@@ -43,7 +43,7 @@ Deze principes staan aan de basis van de afspraken en regels over de onderstaand
 
 Dit componentendiagram is ontwikkeld door en op basis van het onderzoek van L. van der Peet en geeft inzicht in de decompositie van relevante componenten van een afsprakenstelsel.  
 
-![componenten diagram trust framework](images/components_diagram.png "Componenten diagram afsprakenstelsels")
+![componenten diagram trust framework](media/components_diagram.png "Componenten diagram afsprakenstelsels")
 
 ## Hoe is BOMOS als best practice inzetbaar voor het beheer van afsprakenstelsels?
 
@@ -59,7 +59,7 @@ Het BOMOS fundament is goed toepasbaar voor het inrichten van beheer van nieuwe 
 
 ## BOMOS toegepast op afsprakenstelsels
 
-![BOMOS model](images/bomos_activiteiten.png "BOMOS activiteiten")
+![BOMOS model](media/bomos_activiteiten.png "BOMOS activiteiten")
 
 ### Strategie
 

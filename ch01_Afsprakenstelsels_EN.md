@@ -34,11 +34,11 @@ These principles are the foundation of agreements and rules governing the follow
 -	Architecture and technical aspects: for example technical standards, use cases and interface descriptions.
 
 This component diagram was developed by and based on the research of L. van der Peet and provides insight into the relevant components of a trust framework.
-![componenten diagram trust framework](images/components_diagram_EN.png "Component diagram Trust Frameworks")
+![componenten diagram trust framework](media/components_diagram_EN.png "Component diagram Trust Frameworks")
 
 ### Example of a Trust Framework: Medmij
 
-![medmij afsprakenstelsel 4 cornermodel](images/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
+![medmij afsprakenstelsel 4 cornermodel](media/medmij_afsprakenstelsel.png "Medmij afsprakenstelsel 4 corner model")
 
 The Medmij trust framework (for more info: see [Medmij](https://medmij.nl/en/medmij-framework/)) makes it possible for end users to securely and reliably share health-related information in their personal health environment with care providers such as a dispensing chemist or hospital. The end users select a party to supply the health environment and hospitals select a party they connect to the Medmij network. The trust framework provides the conditions for secure and reliable exchange and the technical facilities for practical operation. The scope of the trust framework is the area in which the service provider of the end user cooperates with the service provider and the care provider. There are multiple service providers on both sides and thanks to the framework, the complexity is restricted and the services and products work well together.  
 
@@ -59,7 +59,7 @@ The BOMOS foundation can be ideally used for structuring the management of new t
 
 ## BOMOS applied to Trust Frameworks
 
-![BOMOS model](images/BOMOS-15_Bomos-activiteiten-blanco_EN.png "BOMOS activiteiten")
+![BOMOS model](media/BOMOS-15_Bomos-activiteiten-blanco_EN.png "BOMOS activiteiten")
 
 ### Strategy
 

@@ -3,18 +3,18 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 loadRespecWithConfiguration({
   authors: [ { 
         "company" : "Logius",
-        "companyURL" : "http://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Sander Boer"
       } ],
   editors: [ 
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Gül Işik"
       },
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Edwin Wisse"
       }
     ],

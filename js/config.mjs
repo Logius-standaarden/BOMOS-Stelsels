@@ -1,22 +1,20 @@
-var respecConfig = {
-  alternateFormats: [ { 
-        "label" : "pdf",
-        "uri" : "BOMOS-Stelsels.pdf"
-      } ],
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+
+loadRespecWithConfiguration({
   authors: [ { 
         "company" : "Logius",
-        "companyURL" : "http://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Sander Boer"
       } ],
   editors: [ 
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Gül Işik"
       },
       { 
         "company" : "Logius",
-        "companyURL" : "https://www.logius.nl/",
+        "companyURL" : "https://www.logius.nl",
         "name" : "Edwin Wisse"
       }
     ],
@@ -30,4 +28,4 @@ var respecConfig = {
   shortName: "stelsels",
   specStatus: "WV",
   specType: "HR"
-};
+});

@@ -4,13 +4,13 @@
 
 Het is lastig om een eenduidige definitie te geven van wat een afsprakenstelsel precies is. Het is de Nederlandse vertaling van Trust Framework. Andere benamingen voor een afsprakenstelsel is een vertrouwensraamwerk. In Nederland zijn eHerkenning, Medmij, KIK-V, iDIN voorbeelden van een afsprakenstelsel.
 
-Uit literatuuronderzoek [(zie understanding trust frameworks)](https://digicampus.tech/wp-content/uploads/2024/09/van-der-Peet-L.-Bharosa-N.-Dijkhuis-S.-Janssen-M.-2024-Understanding-trust-frameworks.pdf) 
-blijkt dat slechts één paper een definitie bevat, afkomstig van het National Institute of Standards and Technology (NIST):"een juridisch afdwingbare set specificaties, regels en overeenkomsten die een meerzijdig systeem regelen, opgezet voor een gemeenschappelijk doel, ontworpen voor specifieke transacties binnen een gemeenschap van deelnemers, en gebonden aan gemeenschappelijke vereisten."
+Uit literatuuronderzoek [(zie understanding trust frameworks)](https://digicampus.tech/wp-content/uploads/2024/09/van-der-Peet-L.-Bharosa-N.-Dijkhuis-S.-Janssen-M.-2024-Understanding-trust-frameworks.pdf) blijkt dat slechts één paper een definitie bevat, afkomstig van het National Institute of Standards and Technology (NIST): "een juridisch afdwingbare set specificaties, regels en overeenkomsten die een meerzijdig systeem regelen, opgezet voor een gemeenschappelijk doel, ontworpen voor specifieke transacties binnen een gemeenschap van deelnemers, en gebonden aan gemeenschappelijke vereisten."
 
-Een afsprakenstelsel is een samenwerkingsstructuur. Het regelt belangrijke zaken rondom vertrouwen en interoperabiliteit en bevat afspraken over het besturen van deze samenwerking. 
-Een van de belangrijke eigenschappen van een afsprakenstelsel is dat het een oplossing is voor het schalingsvraagstuk. Afsprakenstelsels faciliteren positieve netwerkeffecten waarbij de waarde van het netwerk toeneemt naarmate meer partijen deelnemen. 
+Een afsprakenstelsel is een samenwerkingsstructuur [(zie Begrippencatalogus)](https://begrippen.stelselcatalogus.nl/sbb/begrippenkader/detail?iri=http:%2F%2Fpurl.stelselcatalogus.nl%2Fid%2Fsbb%2F5a1a17d7-34d4-46b1-8d69-4c92b59287c3). Het regelt belangrijke zaken rondom vertrouwen en interoperabiliteit en bevat afspraken over het besturen van deze samenwerking.
 
-Een afsprakenstelsel biedt voordelen van marktwerking voor de afnemers van diensten - er is concurrentie op innovatie en prijs. Ook biedt het verbeteringen rond beschikbaarheid doordat afnemers kunnen kiezen uit meerdere aanbieders en ook tegelijkertijd die diensten kunnen afneme 
+Een van de belangrijke eigenschappen van een afsprakenstelsel is dat het een oplossing is voor het schalingsvraagstuk. Afsprakenstelsels faciliteren positieve netwerkeffecten waarbij de waarde van het netwerk toeneemt naarmate meer partijen deelnemen.
+
+Een afsprakenstelsel biedt voordelen van marktwerking voor de afnemers van diensten - er is concurrentie op innovatie en prijs. Ook biedt het verbeteringen rond beschikbaarheid doordat afnemers kunnen kiezen uit meerdere aanbieders en ook tegelijkertijd die diensten kunnen afnemen.
 
 ## GovTech als katalysator voor samenwerking
 GovTech is een op technologie gebaseerde samenwerking tussen actoren uit de openbare én private sector om de  digitale transformatie van de overheidssector te ondersteunen.
